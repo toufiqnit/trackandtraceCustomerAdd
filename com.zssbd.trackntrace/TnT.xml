@@ -6,34 +6,8 @@
 		
 			 <class name="com.zssbd.trackntrace.customeradd.customerAdd" />		 
 		</classes>
-	</test> <!-- Test -->
+	</test> 
 	
-	<test name="TnT Test1">
-		<classes>
-		
-			 <class name="com.zssbd.trackntrace.customeradd.customerAdd" />		 
-		</classes>
-	</test> <!-- Test -->
 	
-	<test name="TnT Test2">
-		<classes>
-		
-			 <class name="com.zssbd.trackntrace.customeradd.customerAdd" />		 
-		</classes>
-	</test> <!-- Test -->
-	
-	<test name="TnT Test3">
-		<classes>
-		
-			 <class name="com.zssbd.trackntrace.customeradd.customerAdd" />		 
-		</classes>
-	</test> <!-- Test -->
-	
-	<test name="TnT Test4">
-		<classes>
-		
-			 <class name="com.zssbd.trackntrace.customeradd.customerAdd" />		 
-		</classes>
-	</test> <!-- Test -->
 
 </suite>  	
